@@ -1,0 +1,4 @@
+baseURL = 'https://manaalmashpher.github.io/'
+languageCode = 'en-us'
+title = 'Manaal Mashpher'
+theme = 'almeida-cv'

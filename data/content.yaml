@@ -1,0 +1,97 @@
+BasicInfo:
+  FirstName: Manaal
+  LastName: Mashpher
+  Photo: img/avatar2.jpeg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +91 79026 04819
+    - Icon: fas fa-envelope
+      Info: manaalmashpher@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/manaalmashpher/" target="_blank">linkedin.com/in/manaalmashpher/</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Kerala, India
+
+Profile: Motivated college student with a strong work ethic and a passion for learning. Eager to embark on a professional career journey, bringing energetic enthusiasm and a commitment to excellence. Ready to contribute to a dynamic team and grow within a forward-thinking organization!
+
+Experience:
+  - Employer: Order Quantity & Inventory Management System
+    Positions:
+      - Title: Academic Mini Project
+        Details:
+          - Uses Artificial Intelligence to keep track of demand quantities prior to orders
+          - ReactJS as the frontend
+          - Flask for integration
+          - Python for the AI/DS module
+          - Here, a time series model was used for prediction of future demand
+        Badges:
+          [
+            "Python",
+            "Flask",
+            "React",
+            "Javascript",
+            "HTML",
+            "CSS",
+            "PostgreSQL",
+          ]
+
+Education:
+  - Course: B.Tech in Artificial Intelligence and Data Science
+    Place: Rajagiri School of Engineering and Technology
+    Date: Nov 2021 - June 2025
+    Details: Kochi, Kerala, India
+  - Course: Higher Secondary Education (Specialised in Computer Science)
+    Place: Bharatiya Vidya Bhavan
+    Details: Kannur, Kerala, India
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - CSS
+      - SQL
+      - Oracle
+      - C
+      - C++
+      - R
+
+  - Family: Frameworks
+    Items:
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Kubernetes
+  - Family: Others
+    Items:
+      - Microsoft Office
+      - LaTeX
+  - Family: Soft Skills
+    Items:
+      - Data visualization
+      - Proficiency in statistical concepts
+      - Listening skills
+      - Communication skills
+      - Adaptability
+      - Detail-oriented
+      - Reliability
+      - Self-management skills
+      - Problem-solving and research skills
+      - Work ethic
+
+Languages:
+  - Name: English
+    Level: C2
+  - Name: Hindi
+    Level: C1
+  - Name: Malayalam
+    Level: B2
+  - Name: Arabic
+    Level: A1
+  - Name: Korean
+    Level: A1
